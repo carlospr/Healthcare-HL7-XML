@@ -23,7 +23,7 @@ docker compose up
 
 Open terminal session:
 ```bash
-docker compose exec -it iris-datapipe bash
+docker compose exec -it healthcare-hl7-xml bash
 iris session iris
 ```
 
